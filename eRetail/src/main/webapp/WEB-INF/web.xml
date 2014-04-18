@@ -4,4 +4,13 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>eRetail</servlet-name>
+  	<servlet-class>com.eRetail.connector.EretailConnector</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>eRetail</servlet-name>
+  	<url-pattern>/req</url-pattern>
+  </servlet-mapping>
+
 </web-app>
