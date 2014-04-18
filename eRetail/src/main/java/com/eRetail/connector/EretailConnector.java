@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 /**
- * Servlet connector class for eRetail
+ * Servlet connector class for eRetail1
  * @author biju
  *
  */
