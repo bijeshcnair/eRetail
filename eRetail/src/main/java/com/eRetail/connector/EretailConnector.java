@@ -6,7 +6,11 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-
+/**
+ * Servlet connector class for eRetail
+ * @author biju
+ *
+ */
 public class EretailConnector extends HttpServlet {
 
 
