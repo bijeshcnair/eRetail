@@ -104,6 +104,7 @@ public class Item {
 		this.type = type;
 		this.subType = subType;
 		this.phone = phone;
+
 		this.miscObject = miscObject;
 	}
 	
